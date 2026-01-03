@@ -14,6 +14,7 @@ const Footer = () => {
             <footer className="flex flex-col items-center justify-center w-full py-20 bg-gradient-to-b from-indigo-600 to-indigo-400 text-white/70">
                  <p><span className="px-3 py-1 rounded-lg text-white bg-indigo-600 mr-2">SkyMate</span>Weather Now</p>
                 <p className="mt-4 text-center">Copyright © 2025 <a href="https://prebuiltui.com">WeatherNow.AI</a>. All rights reservered.</p>
+                <p>Mr. Sourav Verma</p>
                 <div className="flex items-center gap-4 mt-5">
                     <a href="#" className="hover:-translate-y-0.5 transition-all duration-300">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
